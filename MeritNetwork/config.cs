@@ -13,6 +13,7 @@ namespace MeritNetwork
         public static void UpdateConfig(string filename, string name, string Xvalue)
         {
             int ss = 2;
+            int s1 = 3;
             XmlDocument doc = new XmlDocument();
             doc.Load(filename + ".xml");
             XmlNode node = doc.SelectSingleNode(@"//add[@key='" + name + "']");
