@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <appSettings>
+    <add key="_Chan_num" value="32" />
+    <add key="_Start_freq" value="2500" />
+    <add key="_End_freq" value="3500" />
+    <add key="Sfreq" value="2500" />
+    <add key="Sfreq" value="2600" />
+    <add key="Sfreq" value="3500" />
+  </appSettings>
+</configuration>
